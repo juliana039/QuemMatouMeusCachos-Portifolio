@@ -11,11 +11,17 @@ O objetivo do jogo é **coletar as memórias** existentes no labirinto para ajud
 
 ## 🎮 Mecânicas de Jogo
 ✅ **Exploração em um labirinto** cheio de caminhos confusos e desafios
+
 ✅ **Obstáculos diversos**, como baratas, espinhos e água tóxica
+
 ✅ **Desbloqueio de habilidades** conforme Dandara recupera suas memórias (como pulo duplo e corrida)
+
 ✅ **Portas trancadas** que só se abrem após a coleta das memórias necessárias
+
 ✅ **Poços mágicos** para recuperar vida
+
 ✅ **Pontos de luz de cachos** que ajudam na transformação da personagem
+
 ✅ **Quatro fases**, desbloqueadas progressivamente
 
 ## 🏆 Diferencial
@@ -23,7 +29,9 @@ O objetivo do jogo é **coletar as memórias** existentes no labirinto para ajud
 
 ## 👥 Equipe de Desenvolvimento
 💡 **Design & Direção de Arte:** Isadora Farias  
+
 💻 **Desenvolvimento:** Amanda Rabelo, Ana Beatriz Seixas, Juliana Magalhães  
+
 🛠️ **Tecnologia:** SpriteKit
 
 ## 📷 Imagens do Jogo
